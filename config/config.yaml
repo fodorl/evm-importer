@@ -1,0 +1,10 @@
+#config/config.yaml
+node_url: "ws://localhost:8546"
+http_url: "http://localhost:8545"
+
+clickhouse:
+  host: "localhost"
+  port: "8123"
+  user: "default"
+  password: "<YOUR-PASSWORD>"
+  database: "blockchain"
